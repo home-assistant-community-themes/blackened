@@ -2,6 +2,10 @@
 
 > Blackened theme. Based on The Amoled Theme by Lance36
 
+Disclaimer: first theme(-adaptation) and very early stages!
+  Still a lot of "in-progress" variables left from troubleshooting etc.              #   Will remove in due course.
+  ... But it works, as it is, for my purposes.
+
 ## Screenshots
 
 ### Overview
