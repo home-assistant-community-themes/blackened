@@ -1,5 +1,8 @@
 # Blackened Theme
 
+[![Build Status](https://www.travis-ci.org/home-assistant-community-themes/blackened.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/blackened)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+
 > Blackened theme. Based on The Amoled Theme by Lance36
 
 ## Screenshots
@@ -34,7 +37,7 @@
 
 ## Installation
 
-1. Add the following code to your `configuration.yaml` file (reboot required).
+Add the following code to your `configuration.yaml` file (reboot required).
 
 ```yaml
 frontend:
@@ -43,8 +46,10 @@ frontend:
   ... # your configuration.
 ```
 
-2. Go to the Community Store.
-3. Search for `Blackened`.
-4. Navigate to `Blackened` theme.
-5. Press `Install`.
-6. Go to services and trigger the `frontend.reload_themes` service.
+### HACS
+
+1. Go to the Community Store.
+2. Search for `Blackened`.
+3. Navigate to `Blackened` theme.
+4. Press `Install`.
+5. Go to services and trigger the `frontend.reload_themes` service.
